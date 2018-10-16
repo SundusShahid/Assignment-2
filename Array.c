@@ -283,21 +283,6 @@ int main()
 		
 
 
-//		pid_t cpid=fork();
-//		if(cpid==0)
-//		{	
-//			printf("\nchild %d  " , x);
-//			int sum=0;
-//			for(int k=a;k<=b;k++)
-//			{
-//				sum=sum+k;	
-//			}
-//			printf("%d ",sum);
-//			printf("\n");
-//			a=a+100;
-//			b=b+100;
-//			exit(0);
-//		}
 	
 return 0;
 }
